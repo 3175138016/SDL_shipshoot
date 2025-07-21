@@ -1,0 +1,3 @@
+D:/game/shotter/build/CMakeFiles/shotter-Windows.dir
+D:/game/shotter/build/CMakeFiles/ALL_BUILD.dir
+D:/game/shotter/build/CMakeFiles/ZERO_CHECK.dir
